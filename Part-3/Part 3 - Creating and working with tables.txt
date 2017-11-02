@@ -1,0 +1,5 @@
+Creating and working with tables
+
+1) Create table person
+2) Create table gender
+3) Add foreign key constrain in person table

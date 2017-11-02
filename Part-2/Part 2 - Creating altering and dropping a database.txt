@@ -1,0 +1,5 @@
+Database Operations:
+
+1) Create DB
+2) Rename DB
+3) Drop DB
